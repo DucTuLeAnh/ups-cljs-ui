@@ -1,0 +1,5 @@
+node_modules/
+target/
+public/js/compiled/
+out/
+.shadow-cljs/
